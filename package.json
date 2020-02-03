@@ -1,0 +1,17 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "quick demo of web component examples with vanilla javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o --cors"
+  },
+  "keywords": [
+    "web",
+    "components",
+    "javascript"
+  ],
+  "author": "DrNio13",
+  "license": "ISC"
+}
