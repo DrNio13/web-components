@@ -13,5 +13,8 @@
     "javascript"
   ],
   "author": "DrNio13",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
 }
